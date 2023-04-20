@@ -9,7 +9,7 @@ import pyttsx3
 import threading
 
 # Initialize the OpenAI API client
-openai.api_key = "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"
+openai.api_key = "YOUR API KEY"
 
 # Set up the tkinter window and widgets
 root = tk.Tk()
