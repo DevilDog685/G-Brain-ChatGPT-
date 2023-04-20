@@ -1,4 +1,4 @@
-#K-Brain by Richard Vaalotu
+#G-Brain by Richard Vaalotu
 #Code by Richard Vaalotu
 #Copyright (c) 2023 Richard Vaalotu
 
